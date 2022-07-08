@@ -1,10 +1,12 @@
 <template>
+  <p>oi</p>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 
 export default Vue.extend({
-  name: 'IndexPage'
+  name: 'IndexPage',
+  layout: 'main',
 })
 </script>
